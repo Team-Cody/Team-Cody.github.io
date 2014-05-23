@@ -3,4 +3,4 @@ Team-Cody.github.io
 
 Github Project Page for TeamCody.
 
-URL: http://www.team-cody.github.io/
+URL: http://team-cody.github.io/
